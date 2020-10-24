@@ -25,7 +25,7 @@ A fitness tracker using MongoDB and Mongoose.
 
 ## Deployment
 
-        **[Find this project deployed here](TDB)**
+**[Find this project deployed here](https://work-it-mongo.herokuapp.com/)**
         
 
 ## Contact
